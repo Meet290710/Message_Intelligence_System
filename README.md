@@ -3,16 +3,6 @@
 
 ### A machine-learning project for classifying messages as **Legitimate** or **Spam**
 
-```{=html}
-<p>
-```
-`<img src="https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">`{=html}
-`<img src="https://img.shields.io/badge/Streamlit-Web%20App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit">`{=html}
-`<img src="https://img.shields.io/badge/scikit--learn-ML-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn">`{=html}
-`<img src="https://img.shields.io/badge/Status-Educational%20Project-2EA44F?style=for-the-badge" alt="Project status">`{=html}
-```{=html}
-</p>
-```
 **Turn message data into useful insights.** Explore a dataset, compare
 classification models, review evaluation metrics, and test a message in
 an interactive Streamlit dashboard.
