@@ -362,7 +362,6 @@ distribute this project.
 
 -   GitHub: [@Meet290710](https://github.com/Meet290710)
 
-::: {align="center"}
 ### 🌟 If you find this project useful, consider giving the repository a star!
 
 **Built for learning, experimentation, and better understanding of
