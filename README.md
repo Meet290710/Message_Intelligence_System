@@ -64,6 +64,18 @@ train and compare three classifiers.
 -   **💾 Save trained models** --- model pipelines can be saved as
     `.joblib` files.
 
+## 🚀 Live Demo
+
+<p align="center">
+  <a href="https://message-intelligence-system1.streamlit.app/">
+    <img src="https://img.shields.io/badge/🚀%20Launch-Live%20App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Launch Live App">
+  </a>
+</p>
+
+Try the **Message Intelligence System** directly in your browser — no installation required!
+
+🔗 **Live Application:** [Open Message Intelligence System](https://message-intelligence-system1.streamlit.app/)
+
 ## 🧰 Tech Stack
 
   ----------------------------------------------------------------------------------
